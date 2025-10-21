@@ -1,6 +1,7 @@
 # EmojiHub CLI
 
-![Tests](https://img.shields.io/badge/tests-passing-in_local.svg)
+
+[![Tests](https://github.com/jaanvicpatel/is4010-midterm-emojihub/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/jaanvicpatel/is4010-midterm-emojihub/actions/workflows/tests.yml)
 ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 

@@ -1,4 +1,3 @@
-
 # EmojiHub CLI
 
 ![Tests](https://img.shields.io/badge/tests-passing-in_local.svg)
@@ -28,10 +27,3 @@ python -m src.main group face-smiling --limit 5
 
 # Run tests
 pytest -q
-```
-
-## Tech
-- Python, argparse, requests, pytest, GitHub Actions
-
-## API Credit
-Data from the public EmojiHub API. See: https://github.com/cheatsnake/emojihub
